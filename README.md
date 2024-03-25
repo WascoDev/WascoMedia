@@ -25,7 +25,7 @@ This project was an incredible learning experience! I delved into React.js compo
 🙌 Big Thanks:
 A huge shoutout to Rapid API for providing the YouTube API, making it possible to interact with YouTube's vast library of videos! 🌟
 
-👉 Check out the project on GitHub: [Link to GitHub Repo]
+👉 Check out the project live: [https://wascodevmedia.netlify.app/]
 
 I'm thrilled with the results and can't wait to embark on more coding adventures! 💻✨
 
